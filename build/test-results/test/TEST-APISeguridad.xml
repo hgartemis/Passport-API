@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="APISeguridad" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-05-18T16:07:59" hostname="PCPOGCUCSI0004" time="2.56">
+  <properties/>
+  <testcase name="apiSeguridad" classname="APISeguridad" time="2.56"/>
+  <system-out><![CDATA[token: 9904509687364097
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
